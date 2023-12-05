@@ -1,10 +1,1 @@
- Volume in drive C is WINDOWS
- Volume Serial Number is C860-2A34
-
- Directory of C:\Users\Sneha Ramasubbareddy\Desktop\MyProject
-
-12/05/2023  11:40 AM    <DIR>          .
-12/05/2023  11:40 AM    <DIR>          ..
-12/05/2023  11:40 AM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  884,130,734,080 bytes free
+test file
